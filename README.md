@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/badmunda98/BadBoyAddons"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamBadBoy&show_icons=true&theme=dracula&hide_border=true&repo=BadBoyAddons"></a></p>
+# <p align="center"><a href="https://github.com/badmunda98/BadBoyAddons"><img src="https://github-readme-stats.vercel.app/api/pin?username=Badmunda98&show_icons=true&theme=dracula&hide_border=true&repo=BadBoyAddons"></a></p>
 <p align="center">
 
 # BadBoyAddons
